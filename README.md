@@ -1,1 +1,1 @@
-https://zahradiv.github.io/tailwind/
+https://zahradiv.github.io/tailwind/src
